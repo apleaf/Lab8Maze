@@ -15,6 +15,8 @@ The objective of this lab was to combine Lab 7 with Lab 6 and have the robot nav
 
 ###Software
 I went with the method which followed along the left wall and made corrections based on when the sensor was either too far or too close to the wall.  I think using this method was what gave me trouble achieving A functionality.
+![alt text](http://i58.tinypic.com/2rc0i76.png)
+
 
 
 ###Debugging
